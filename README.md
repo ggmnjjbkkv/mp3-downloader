@@ -29,4 +29,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-*Note: Customize this README according to your project's specifics.*
